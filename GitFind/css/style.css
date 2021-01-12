@@ -1,0 +1,26 @@
+/* FULL HD */
+@media screen and (min-width: 1920px){
+    html{
+        font-size: 140%;
+    }
+}
+
+/* QHD */
+@media screen and (min-width: 2560px){
+    html{
+        font-size: 180%;
+    }
+}
+
+/* UHD */
+@media screen and (min-width: 3840px){
+    html{
+        font-size: 220%;
+    } 
+}
+
+/* Image fix for tablets*/
+img{
+    width: 100%;
+}
+
